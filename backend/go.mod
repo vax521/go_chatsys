@@ -1,4 +1,4 @@
-module github.com/TutorialEdge/realtime-chat-go-react
+module github.com/vax521/go_chatsys
 
 go 1.13
 

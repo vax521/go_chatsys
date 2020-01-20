@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/TutorialEdge/realtime-chat-go-react/pkg/websocket"
+	"github.com/vax521/go_chatsys/backend/pkg/websocket"
 	"net/http"
 )
 
