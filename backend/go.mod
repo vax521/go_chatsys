@@ -1,4 +1,4 @@
-module github.com/vax521/go_chatsys
+module github.com/vax521/go_chatsys/backend
 
 go 1.13
 
